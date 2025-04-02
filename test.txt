@@ -1,2 +1,3 @@
 secret_scanning_sample_token=21345648154654
 SECRET_SCANNING_SAMPLE_TOKEN=231231546213
+adafruit_io_key=12321321312
