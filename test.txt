@@ -1,0 +1,6 @@
+secret_scanning_sample_token=21345648154654
+SECRET_SCANNING_SAMPLE_TOKEN=231231546213
+adafruit_io_key=12321321312
+google_cloud_storage_access_key_secret=21dsa98jasddsaj
+google_cloud_storage_user_access_key_id=asdasdasasd
+aws_secret_key=12313213213
