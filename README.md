@@ -1,2 +1,1 @@
 # CloudProject
-secret_scanning_sample_token
